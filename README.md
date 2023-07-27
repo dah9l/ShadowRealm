@@ -5,5 +5,7 @@ A cold, dark & frosty theme.
 
 ![Preview](https://dah9ru.github.io/ShadowRealm/Screenshots/ShadowRealm_1.png)
 
+![Preview](https://dah9ru.github.io/ShadowRealm/Screenshots/ShadowRealm_2.png)
+
 ## Credits
 * dah9
