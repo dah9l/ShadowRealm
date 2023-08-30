@@ -1,9 +1,9 @@
 /**
  * @name Shadow Realm
- * @author dah9.
+ * @author Visavis.
  * @version 1.0.0
  * @description A cold, dark & frosty theme.
- * @source https://github.com/dah9ru/ShadowRealm/
+ * @source https://github.com/V1savis/ShadowRealm/
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
@@ -22,8 +22,8 @@ button {
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
-	--background-image: url('https://dah9ru.github.io/ShadowRealm/img/BG.gif');
-	--home-image: url('https://dah9ru.github.io/ShadowRealm/img/Home.gif');
+	--background-image: url('https://V1savis.github.io/ShadowRealm/img/BG.gif');
+	--home-image: url('https://V1savis.github.io/ShadowRealm/img/Home.gif');
 	--background-solid: #161921;
 	--background-solid-dark: #101218;
 	--background-solid-darker: #0c0e12;

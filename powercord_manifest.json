@@ -2,7 +2,7 @@
     "name": "Shadow Realm",
     "description": "A cold, dark & frosty theme.",
     "version": "1.0",
-    "author": "dah9.",
+    "author": "Visavis",
     "theme": "ShadowRealm.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
