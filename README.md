@@ -7,5 +7,7 @@ A cold, dark & frosty theme.
 
 ![Preview](https://V1savis.github.io/ShadowRealm/Screenshots/ShadowRealm_2.png)
 
+![Preview](https://dah9ru.github.io/ShadowRealm/Screenshots/ShadowRealm_2.png)
+
 ## Credits
 * Visavis
